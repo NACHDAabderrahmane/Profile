@@ -817,6 +817,7 @@ ul.portfolio-image li .desc{
   letter-spacing: 2px;
 }
 .list-testimonial .content-testimonial .people {
+  text-align: center;
   font-size: 14px;
   margin-top: 30px;
   letter-spacing: 2px;
